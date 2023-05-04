@@ -8,7 +8,7 @@ const config = {
   title: "CloudPortal Documentation",
   tagline: "CloudPortal Documentation",
   url: "https://docs.CloudPortal.com",
-  baseUrl: "/",
+  baseUrl: "/help/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   // favicon: "img/favicon.ico",
