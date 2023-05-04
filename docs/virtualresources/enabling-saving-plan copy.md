@@ -3,16 +3,16 @@ title: Enabling Saving Plan
 sidebar_label: Enabling Saving Plan
 ---
 
-### Saving Plan in StackBill Cloud Management portal
+### Saving Plan in CloudPortal Cloud Management portal
 
-Savings Plans in [**StackBill**](https://www.stackbill.com/) are a flexible pricing model that offer low prices on resource usage, in exchange for a commitment to a consistent amount of usage (measured in ₹ /hour) for long term.
+Savings Plans in [**CloudPortal**](https://www.CloudPortal.com/) are a flexible pricing model that offer low prices on resource usage, in exchange for a commitment to a consistent amount of usage (measured in ₹ /hour) for long term.
 
 - **Before enabling a saving plan ensure the instance is stopped.**
  
-<img src="/img/virtualresources/Resizeinstance-StackbillCloudManagementportal.png" width="100%" />
+<img src="/img/virtualresources/Resizeinstance-CloudPortalCloudManagementportal.png" width="100%" />
 
 
-**The user can enable saving plans in StackBill CMP in two ways they are,**
+**The user can enable saving plans in CloudPortal CMP in two ways they are,**
 
 - Enable the plan directly by **clicking on the instance**, which may automatically generate the instance information process.
 - Second, by enabling using **the savings plan**.
@@ -21,21 +21,21 @@ Savings Plans in [**StackBill**](https://www.stackbill.com/) are a flexible pric
 ## **Enable the saving plan directly by clicking on the instance.**
 - **Step 1** 
 
-<img src="/img/virtualresources/Resizeinstance1-StackbillCloudManagementPortal.png" width="100%" />
+<img src="/img/virtualresources/Resizeinstance1-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Click on the instance.
 - Select **Resize** from the option.
 
-<img src="/img/virtualresources/Resizeinstance2-StackbillCloudManagementPortal.png" width="80%" />
+<img src="/img/virtualresources/Resizeinstance2-CloudPortalCloudManagementPortal.png" width="80%" />
 
 - When you scroll down on the panel, you will see an option called **Purchase Saving plan**.
 
-<img src="/img/virtualresources/Resizeinstance6-StackbillCloudManagementPortal.png" width="80%" />
+<img src="/img/virtualresources/Resizeinstance6-CloudPortalCloudManagementPortal.png" width="80%" />
 
 - On clicking the **Purchase Saving Plan button**, the page for Purchase Saving Plan is appear on the screen.
 - Here you can **select the offering as per the requirement**.
 
-<img src="/img/virtualresources/Reservedinstance-StackBillCloudManagementPortal.png" width="80%" />
+<img src="/img/virtualresources/Reservedinstance-CloudPortalCloudManagementPortal.png" width="80%" />
 
 - **Reserved offering type** - There are two types of reserved offering they are **STANDARD** and **CONVERTABLE**.
 
@@ -47,11 +47,11 @@ Savings Plans in [**StackBill**](https://www.stackbill.com/) are a flexible pric
   1. Select the RI plan **(i.e. yearly or monthly coverage)**.
 
 
-<img src="/img/virtualresources/Reservedinstance7-StackBillCloudManagementPortal.png" width="90%" />
+<img src="/img/virtualresources/Reservedinstance7-CloudPortalCloudManagementPortal.png" width="90%" />
 
 - Finally Click on the **SAVE PLAN** option.
 
-<img src="/img/virtualresources/Reservedinstance8-StackBillCloudManagementPortal.png" width="100%" />
+<img src="/img/virtualresources/Reservedinstance8-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Now the Reserved offering is successfully configured.
 
@@ -64,11 +64,11 @@ Savings Plans in [**StackBill**](https://www.stackbill.com/) are a flexible pric
 - Click on it to view the drop-down menu.
 - From the drop-up select the **Savings plan**.
 
-<img src="/img/virtualresources/2Reservedinstance-StackBillCloudManagementPortal.png" width="100%" />
+<img src="/img/virtualresources/2Reservedinstance-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - **Saving Plan** screen appears on the screen.
 
-<img src="/img/virtualresources/2Savingplan-StackbillCloudManagementPotal.png" width="80%" />
+<img src="/img/virtualresources/2Savingplan-CloudPortalCloudManagementPotal.png" width="80%" />
 
 &nbsp;
 
@@ -79,12 +79,12 @@ Savings Plans in [**StackBill**](https://www.stackbill.com/) are a flexible pric
 - At the bottom of the page you can able to see an option called **Purchase Saving Plan**.
 - Click on it to **Purchase a Saving plan** for your resource.
 
-<img src="/img/virtualresources/Resizeinstance6-StackBillCloudManagementPortal.png" width="100%" />
+<img src="/img/virtualresources/Resizeinstance6-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Purchase a Saving plan screen appears.
 - Here you can choose the offering as per the requirement.
 
-<img src="/img/virtualresources/3fReservedinstance-StackBillCloudManagementPortal.png" width="90%" />
+<img src="/img/virtualresources/3fReservedinstance-CloudPortalCloudManagementPortal.png" width="90%" />
 
 - **Reserved offering type** - There are two types of reserved offering they are **STANDARD** and **CONVERTABLE**.
 
@@ -99,14 +99,14 @@ Savings Plans in [**StackBill**](https://www.stackbill.com/) are a flexible pric
   1. In this case, the user wants to **select the VM on which a saving plan will be configured.**
 
 
-<img src="/img/virtualresources/Reservedinstance7-StackBillCloudManagementPortal.png" width="100%" />
+<img src="/img/virtualresources/Reservedinstance7-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Finally Click on the **SAVE PLAN** option.
 
-<img src="/img/virtualresources/Reservedinstance8-StackBillCloudManagementPortal.png" width="100%" />
+<img src="/img/virtualresources/Reservedinstance8-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Now the **Reserved offering is successfully configured.**
 
-**About StackBill**
+**About CloudPortal**
 
-[**StackBill**](https://www.stackbill.com/stackbill-overview.html#compute) is a complete self-service intuitive Cloud Management Portal with extensive features leveraging **Apache CloudStack®** with state of art years of expertise.
+[**CloudPortal**](https://www.CloudPortal.com/CloudPortal-overview.html#compute) is a complete self-service intuitive Cloud Management Portal with extensive features leveraging **Apache CloudStack®** with state of art years of expertise.

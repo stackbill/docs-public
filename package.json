@@ -1,5 +1,5 @@
 {
-  "name": "stackbill-docs",
+  "name": "CloudPortal-docs",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",

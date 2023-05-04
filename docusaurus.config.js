@@ -5,9 +5,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Stackbill Documentation",
-  tagline: "Stackbill Documentation",
-  url: "https://docs.stackbill.com",
+  title: "CloudPortal Documentation",
+  tagline: "CloudPortal Documentation",
+  url: "https://docs.CloudPortal.com",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
@@ -72,7 +72,7 @@ const config = {
         defaultMode: "light",
       },
       navbar: {
-        // title: "Stackbill",
+        // title: "CloudPortal",
         logo: {
           alt: "Site Logo",
           src: "/logo_light.png",
@@ -108,7 +108,7 @@ const config = {
             position: "left",
           },
           {
-            href: 'https://www.stackbill.com/blog/',
+            href: 'https://www.CloudPortal.com/blog/',
             label: 'Blog',
             position: 'left',
             target: "_blank",
@@ -135,7 +135,7 @@ const config = {
                 rel: null,
               },
               {
-                href: "https://www.stackbill.com/",
+                href: "https://www.CloudPortal.com/",
                 label: "Customer Support",
                 target: "_blank",
                 rel: null,
@@ -149,7 +149,7 @@ const config = {
             className: "icon-link navbar__item",
           },
           {
-            href: 'https://github.com/stackbill/docs',
+            href: 'https://github.com/CloudPortal/docs',
             label: 'GitHub',
             position: 'right',
             className: "top-bar-github-link"
@@ -199,7 +199,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} StackBill. All rights reserved`,
+        copyright: `Copyright © ${new Date().getFullYear()} CloudPortal. All rights reserved`,
       },
       prism: {
         theme: lightCodeTheme,

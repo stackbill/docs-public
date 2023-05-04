@@ -5,14 +5,14 @@ sidebar_label: Release Notes
 
 # Release notes
 
-[**StackBill**](https://www.stackbill.com/) is a complete self-service intuitive Cloud Management Portal with extensive features leveraging **Apache CloudStack®** with state of art years of expertise.
+[**CloudPortal**](https://www.CloudPortal.com/) is a complete self-service intuitive Cloud Management Portal with extensive features leveraging **Apache CloudStack®** with state of art years of expertise.
 
 **CMP** For **Datacenters** | **Enterprises** | **Telecom and Cloud Service** Providers.
 
-The **StackBill** cloud platform release notes track incremental improvements and major releases.
-## StackBill Cloud Management Portal 3.02 Version Overview
+The **CloudPortal** cloud platform release notes track incremental improvements and major releases.
+## CloudPortal Cloud Management Portal 3.02 Version Overview
 
-**STACKBILL 3.02**
+**CloudPortal 3.02**
 September 15th, 2022
 
 **What’s New**
@@ -39,13 +39,13 @@ September 15th, 2022
 - CPU utilization issue fixed in VM list page
 - Unable to create VM using ISO template
 
-## StackBill 3.01 Version Overview
+## CloudPortal 3.01 Version Overview
 
-**STACKBILL 3.01**
+**CloudPortal 3.01**
 August 6th, 2022
 
 **What’s New**
-- ACS 4.16 upgrade and compatibility verification in **StackBill**
+- ACS 4.16 upgrade and compatibility verification in **CloudPortal**
 - VM settings integration
 - Vault HashiCorp integration for user key complaints
 - Advanced monitoring auto upgrade
@@ -70,10 +70,10 @@ August 6th, 2022
 - VM loader issue fixed
 
 
-## StackBill 3.00 Version Overview
+## CloudPortal 3.00 Version Overview
 
 
-**STACKBILL 3.00** 
+**CloudPortal 3.00** 
 June 10th, 2022 
 **What’s New** 
 - New UI User Panel – Beta version 
@@ -88,9 +88,9 @@ June 10th, 2022
 - Volume list action buttons not showing 
 - Delete volume snapshot issue 
 
-## StackBill 2.04 Version Overview
+## CloudPortal 2.04 Version Overview
 
-**STACKBILL 2.04**
+**CloudPortal 2.04**
 April 28th, 2022 
 **What’s New** 
 - Invoices do not reflect Stopped Resources. 
@@ -108,12 +108,12 @@ April 28th, 2022
 - Error in the Template filter (Spanish only) 
 
 
-## StackBill 2.03 Version Overview
+## CloudPortal 2.03 Version Overview
 
-**STACKBILL 2.03** 
+**CloudPortal 2.03** 
 February 27th, 2022 
 **What’s New**
-- Reserved Instance Integration in Stackbill 
+- Reserved Instance Integration in CloudPortal 
 - Farsi Language Support 
 - Role Privileges for Admin Users 
  
@@ -121,6 +121,6 @@ February 27th, 2022
 - API changes to Regenerate Tax Pending Status. 
 - Custom field with search filter.
 
-**About StackBill**
+**About CloudPortal**
 
-**[StackBill](https://www.youtube.com/watch?v=nyV8oE3dfXs) is a complete self-service intuitive [Cloud Management Portal](https://www.stackbill.com/) with extensive features leveraging Apache CloudStack® with state of art years of expertise.**
+**[CloudPortal](https://www.youtube.com/watch?v=nyV8oE3dfXs) is a complete self-service intuitive [Cloud Management Portal](https://www.CloudPortal.com/) with extensive features leveraging Apache CloudStack® with state of art years of expertise.**

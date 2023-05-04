@@ -3,32 +3,32 @@ title: Introduction
 sidebar_label: Introduction
 ---
 
-# Welcome to Stackbill Getting started documentation!
+# Welcome to CloudPortal Getting started documentation!
 
-- **StackBill Overview**
+- **CloudPortal Overview**
 
 - **Account sign-up**
-   - Getting Started with StackBill CMP.
-   - How to Login into StackBill CMP.
-   - How to Recover StackBill Account Password.
+   - Getting Started with CloudPortal CMP.
+   - How to Login into CloudPortal CMP.
+   - How to Recover CloudPortal Account Password.
 - **Setup profile**
-  - Setting up user profile in StackBill CMP.
-  - Change password for User Account in StackBill Portal.
+  - Setting up user profile in CloudPortal CMP.
+  - Change password for User Account in CloudPortal Portal.
   - Choose your Payment Method in User Account.
-  - Credits & Promocode for User in StackBill CMP.
-  - API Access Settings in StackBill CMP.
-  - Notification Settings in StackBill CMP.
-  - The process of removing an account from the StackBill CMP.
+  - Credits & Promocode for User in CloudPortal CMP.
+  - API Access Settings in CloudPortal CMP.
+  - Notification Settings in CloudPortal CMP.
+  - The process of removing an account from the CloudPortal CMP.
 - **Release Note**
-    -  StackBill Cloud Management Portal 3.02 Version Overview.
-    - StackBill 3.01 Version Overview.
-    - StackBill 3.00 Version Overview.
-    - StackBill 2.04 Version Overview.
-    - StackBill 2.03 Version Overview.
+    -  CloudPortal Cloud Management Portal 3.02 Version Overview.
+    - CloudPortal 3.01 Version Overview.
+    - CloudPortal 3.00 Version Overview.
+    - CloudPortal 2.04 Version Overview.
+    - CloudPortal 2.03 Version Overview.
 - **Know Bugs**
 
 -----------------------------------------------------
 
-**About StackBill**
+**About CloudPortal**
 
-**[StackBill](https://www.youtube.com/watch?v=nyV8oE3dfXs) is a complete self-service intuitive [Cloud Management Portal](https://www.stackbill.com/) with extensive features leveraging Apache CloudStack® with state of art years of expertise.**
+**[CloudPortal](https://www.youtube.com/watch?v=nyV8oE3dfXs) is a complete self-service intuitive [Cloud Management Portal](https://www.CloudPortal.com/) with extensive features leveraging Apache CloudStack® with state of art years of expertise.**

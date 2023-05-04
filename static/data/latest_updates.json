@@ -1,10 +1,10 @@
 [
     {
       "date": "6 August 2022",
-      "description": "STACKBILL 3.01 which has been comes up with various updates like ACS 4.16 upgrade and compatibility verification in StackBill, VM setting integration, Advanced monitoring auto upgrade and much more"
+      "description": "CloudPortal 3.01 which has been comes up with various updates like ACS 4.16 upgrade and compatibility verification in CloudPortal, VM setting integration, Advanced monitoring auto upgrade and much more"
     },
     {
       "date": "01 January 2023",
-      "description": " StackBill CMP has released a new plugin that provides Kubernetes as a service. This plugin offers an easy and efficient way to manage Kubernetes clusters, simplifying the deployment, scaling, and management of containerized applications."
+      "description": " CloudPortal CMP has released a new plugin that provides Kubernetes as a service. This plugin offers an easy and efficient way to manage Kubernetes clusters, simplifying the deployment, scaling, and management of containerized applications."
     }
   ]
