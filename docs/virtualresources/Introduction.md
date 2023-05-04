@@ -4,16 +4,16 @@ sidebar_label: Introduction
 ---
 
 
-To create a virtual instance, you will need a [**StackBill account.**](https://youtu.be/wwOL091GyFM) If you don’t have one, you can create one from the **StackBill** account [sign-up page](https://youtu.be/9-cFL7hu0-g). **StackBill CMP** lets you access and manage your virtual instance through a simple and intuitive web-based user interface.
+To create a virtual instance, you will need a [**CloudPortal account.**](https://youtu.be/wwOL091GyFM) If you don’t have one, you can create one from the **CloudPortal** account [sign-up page](https://youtu.be/9-cFL7hu0-g). **CloudPortal CMP** lets you access and manage your virtual instance through a simple and intuitive web-based user interface.
 
-Additionally, you can also use the [Stackbill API](https://www.stackbill/api). This will enable you to programmatically perform various actions on your instances. Before you begin, make sure that you have created your API token using the **StackBill Cloud Management Portal.**
+Additionally, you can also use the [CloudPortal API](https://www.CloudPortal/api). This will enable you to programmatically perform various actions on your instances. Before you begin, make sure that you have created your API token using the **CloudPortal Cloud Management Portal.**
 
 
 
-## **Getting Started with StackBill CMP** 
+## **Getting Started with CloudPortal CMP** 
 
 - **Instance**
-    - Quick Deploy in StackBill Cloud Management Portal
+    - Quick Deploy in CloudPortal Cloud Management Portal
         - [Platform Selection](./Instance#platform-selection)
         - [Distribution Types](./Instance#distribution-types)
         - [Compute plans](./Instance#compute-plans)
@@ -23,7 +23,7 @@ Additionally, you can also use the [Stackbill API](https://www.stackbill/api). T
         - [Instance configuration](./Instance#instance-information)
         - [Usage Estimation](./Instance#instance-cost-estimation)
 
-    - Advanced Deploy in StackBill Cloud Management Portal
+    - Advanced Deploy in CloudPortal Cloud Management Portal
         - [Platform Selection](./Instance#platform-selection-1)
         - [Distribution Types](./Instance#distribution-types-1)
         - [Compute plans](./Instance#compute-plans-1)
@@ -42,21 +42,21 @@ Additionally, you can also use the [Stackbill API](https://www.stackbill/api). T
         - [Accessing Linux instance using SSH Key from a Local windows computer](./Instance#accessing-your-linux-virtual-instance-using-ssh-key-from-your-windows-laptopdesktop)
 
     - **Instance Details**
-        - [Summary Overview in StackBill CMP](./Instance#summary-overview-in-stackbill-cmp)
-        - [Recover an VM in StackBill CMP](./Instance#recover-vm)
+        - [Summary Overview in CloudPortal CMP](./Instance#summary-overview-in-CloudPortal-cmp)
+        - [Recover an VM in CloudPortal CMP](./Instance#recover-vm)
         - [Attach an ISO](./Instance#attach-iso)
-        - [Reinstall the VM in StackBill CMP](./Instance#reinstall-vm-in-stackbill-cmp)
-        - [Accessing the Instance through console](./Instance#accessing-console-in-stackbill-cmp)
-        - [Destroy an VM in StackBill CMP](./Instance#destroy-vm-in-stackbill-cmp)
-        - [Instance Resize & Purchase plans in StackBill CMP](./Instance#instance-resize)
+        - [Reinstall the VM in CloudPortal CMP](./Instance#reinstall-vm-in-CloudPortal-cmp)
+        - [Accessing the Instance through console](./Instance#accessing-console-in-CloudPortal-cmp)
+        - [Destroy an VM in CloudPortal CMP](./Instance#destroy-vm-in-CloudPortal-cmp)
+        - [Instance Resize & Purchase plans in CloudPortal CMP](./Instance#instance-resize)
         - [Storage and Snapshot](./Instance#storage-and-snapshot)
         - [Network & Firewall](./Instance#network--firewall)
-        - [Monitoring](./Instance#monitoring-agent-in-stackbill-cmp)
+        - [Monitoring](./Instance#monitoring-agent-in-CloudPortal-cmp)
         - [Access & Security](./Instance#access--security)
-        - [VM schdeuler](./Instance#vm-scheduler-in-stackbill-cmp)
+        - [VM schdeuler](./Instance#vm-scheduler-in-CloudPortal-cmp)
         - [Notes](./Instance#notes)
 
-**About StackBill**
+**About CloudPortal**
 
-**[StackBill](https://www.youtube.com/watch?v=nyV8oE3dfXs) is a complete self-service intuitive [Cloud Management Portal](https://www.stackbill.com/) with extensive features leveraging Apache CloudStack® with state of art years of expertise.**
+**[CloudPortal](https://www.youtube.com/watch?v=nyV8oE3dfXs) is a complete self-service intuitive [Cloud Management Portal](https://www.CloudPortal.com/) with extensive features leveraging Apache CloudStack® with state of art years of expertise.**
 

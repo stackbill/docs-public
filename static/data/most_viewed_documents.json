@@ -17,7 +17,7 @@
     },
     {
         "text": "Cloud Billing Solution",
-        "link": "docs/Billing/Overview#billing-system-in-stackbill-cloud-management-portal"
+        "link": "docs/Billing/Overview#billing-system-in-CloudPortal-cloud-management-portal"
     },
     {
         "text": "SSH key from windows",
@@ -25,18 +25,18 @@
     },
     {
         "text": "Savings plan",
-        "link": "docs/virtualresources/Instance#savings-plans-in-stackbill-cmp"
+        "link": "docs/virtualresources/Instance#savings-plans-in-CloudPortal-cmp"
     },
     {
         "text": "Adding Firewall",
-        "link": "docs/Network/Security-Group-Firewall#add-security-group-in-stackbill-cmp"
+        "link": "docs/Network/Security-Group-Firewall#add-security-group-in-CloudPortal-cmp"
     },
     {
         "text": "Autoscaling",
-        "link": "docs/autoscalling/autoscaling-deployment#add-autoscaling-feature-to-the-instance-in-stackbill-cmp"
+        "link": "docs/autoscalling/autoscaling-deployment#add-autoscaling-feature-to-the-instance-in-CloudPortal-cmp"
     },
     {
         "text": "Networking",
-        "link": "docs/Network/basic-network#network-manager-in-stackbill-cmp"
+        "link": "docs/Network/basic-network#network-manager-in-CloudPortal-cmp"
     }
 ]

@@ -41,7 +41,7 @@ You can access the AMS Web interface at **http://IPADDRESS:5080** and setup the 
 
 To setup a domain name and configure SSL, [click here](https://antmedia.io/docs/guides/installing-on-linux/Setting-up-SSL/)
 
-If you need to access the AMS Web interface at **http://IPADDRESS** instead of **http://IPADDRESS:5080** configure port forwarding from 5080 --> 80 and 5443 --> 443. [click here](https://docs.stackbill.com/docs/Network/basic-network#configure-port-forwarding) to configure port forwarding in StackBill.
+If you need to access the AMS Web interface at **http://IPADDRESS** instead of **http://IPADDRESS:5080** configure port forwarding from 5080 --> 80 and 5443 --> 443. [click here](https://docs.CloudPortal.com/docs/Network/basic-network#configure-port-forwarding) to configure port forwarding in CloudPortal.
 
 To setup OBS video recording and live streaming, [click here](https://antmedia.io/how-to-use-obs-with-ant-media-server/)
 

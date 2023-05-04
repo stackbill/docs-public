@@ -3,7 +3,7 @@ title: What is Affinity Group
 sidebar_label: What is Affinity Group
 ---
 
-### Affinity group On StackBill Cloud Management Portal.
+### Affinity group On CloudPortal Cloud Management Portal.
 
 - **A positive rule tries to run the virtual machines together on a single host; a negative affinity rule tries to run the virtual machines apart on separate hosts**.
 
@@ -14,9 +14,9 @@ sidebar_label: What is Affinity Group
 -----------------------------------------------------
 
 
-**About StackBill**
+**About CloudPortal**
 
-**[StackBill](https://www.youtube.com/watch?v=nyV8oE3dfXs) is a complete self-service intuitive [Cloud Management Portal](https://www.stackbill.com/) with extensive features leveraging Apache CloudStack® with state of art years of expertise.**
+**[CloudPortal](https://www.youtube.com/watch?v=nyV8oE3dfXs) is a complete self-service intuitive [Cloud Management Portal](https://www.CloudPortal.com/) with extensive features leveraging Apache CloudStack® with state of art years of expertise.**
 
 
 

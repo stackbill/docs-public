@@ -11,7 +11,7 @@ const FeatureList = [
     Img: "/img/user_guide.svg",
     description: (
       <div style={{ textAlign: "justify",paddingLeft:"10px" }}>
-        The StackBill user guide is a very comprehensive and instructive guide that gives users full instructions and advice on how to use and manage StackBill CMP (Cloud Management Platform).
+        The CloudPortal user guide is a very comprehensive and instructive guide that gives users full instructions and advice on how to use and manage CloudPortal CMP (Cloud Management Platform).
       </div>
     ),
   },
@@ -20,7 +20,7 @@ const FeatureList = [
     Img: "/img/plugins.svg",
     description: (
       <div style={{ textAlign: "justify" }}>
-        The StackBill CMP platform offers comprehensive documentation for all
+        The CloudPortal CMP platform offers comprehensive documentation for all
         plugins, conveniently accessible through the Plugin section.
       </div>
     ),
@@ -30,7 +30,7 @@ const FeatureList = [
     Img: "/img/marketplace.svg",
     description: (
       <div style={{ textAlign: "justify" }}>
-        StackBill marketplace offers a seamless
+        CloudPortal marketplace offers a seamless
         experience, with user-friendly search and filtering options, simple
         installation and integration processes, and robust support services to
         ensure users get the most out of their apps.
