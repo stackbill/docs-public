@@ -11,8 +11,6 @@ sidebar_label: Introduction
 
 Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
 
-<img src="/img/Kubernetes/Kubernetes- CloudPortalCMP.png" width="60%" />
-
 - [Creating Cluster](./Creatingcluster#creating-cluster-in-CloudPortal-cmp)
 - [Creating Identification](./Creatingcluster#cluster-identification)
 - [Cluster Image Selection](./Creatingcluster#cluster-image-selection)

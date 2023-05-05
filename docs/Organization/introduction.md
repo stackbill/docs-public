@@ -3,6 +3,8 @@ title: Introduction
 sidebar_label: Introduction
 ---
 
+## Introduction
+
 In the organization section in **CloudPortal CMP** user can view the flow of the **user profile, user manager, RBAC, quota limit, maintenance, and my Activity.**
 
 - **User profile**: This refers to the information associated with a user account, such as their Change Password, Payment Settings, Credits & Promo code, Notification settings any other relevant details.

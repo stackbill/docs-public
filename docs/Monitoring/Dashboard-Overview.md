@@ -10,18 +10,18 @@ sidebar_label: Dashboard Overview
 - **Cloud and Container** usage can be **monitored** in a single click using **20+ metrics** provided by **CloudPortal CMP**.
 - Click on the **Monitoring** dropdown button below the Apps icon, Which is available in the top left corner. from the dropdown, Click on **Dashboard**.
 
-<img src="/img/Monitoring/1monitoring-CloudPortalcloudmanagementportal.png" width="90%" />
+<img src="/help/img/Monitoring/1monitoring-CloudPortalcloudmanagementportal.png" width="90%" />
 
 - The **Monitoring Dashboard** screen appears.
 
-<img src="/img/Monitoring/2monitoring-CloudPortalcloudmanagementportal.png" width="90%" />
+<img src="/help/img/Monitoring/2monitoring-CloudPortalcloudmanagementportal.png" width="90%" />
 
 - Here user can monitor their overall resources usage.
 - An **overview of the usage** is available in the **dashboard, along with metrics, triggers, and graphs.**
 - It is also possible to view both **CPU and Memory usage.**
 - On the left side of the portal, the user can able to view the alert summary of the resources.
 
-<img src="/img/Monitoring/3monitoring-CloudPortalcloudmanagementportal.png" width="90%" />
+<img src="/help/img/Monitoring/3monitoring-CloudPortalcloudmanagementportal.png" width="90%" />
 
 - The user can view a detailed view of resource usage here.  
 - **An Overview of CPU** usage can be viewed by **clicking on the CPU option** in the menu.

@@ -20,27 +20,27 @@ sidebar_label: Kubernetes Dashboard
 - **CloudPortal CMP** provides the overall view of your **Kubernetes cluster.**
 - Detailed information about your **plan, Kubernetes version, cluster IP**, and more can be found on the **details page**
 
-<img src="/img/kubernetes-dashboard/1Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/kubernetes-dashboard/1Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - It also displays number of nodes running in your **Kubernetes cluster environment.**
 
-<img src="/img/kubernetes-dashboard/2Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/kubernetes-dashboard/2Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - You can also find the your **cluster and nodes resource** usage under **utilization section.**
 
-<img src="/img/kubernetes-dashboard/3Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/kubernetes-dashboard/3Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Summary page will also displays the total number of disks and network interfaces that are attached with cluster and nodes.
 
-<img src="/img/kubernetes-dashboard/4Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="30%" />
+<img src="/help/img/kubernetes-dashboard/4Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="30%" />
 
 - It also displays the detailed instruction to connect your Kubernetes cluster from the command line interface.
 
-<img src="/img/kubernetes-dashboard/5Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/kubernetes-dashboard/5Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Finally, we can find the instructions to access the **Kubernetes dashboard UI information.**
 
-<img src="/img/kubernetes-dashboard/6Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/kubernetes-dashboard/6Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
 
 ## Resources in K8S
 
@@ -48,11 +48,11 @@ sidebar_label: Kubernetes Dashboard
 
 - Node pools will display the number of nodes and cluster(s) that are available in your **Kubernetes environment.**
 
-<img src="/img/kubernetes-dashboard/7Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/kubernetes-dashboard/7Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Storage section will display list of available disk in your cluster nodes. Also it will provide the option to attach a new data disk (or) resize your existing root disk for your cluster nodes.
 
-<img src="/img/kubernetes-dashboard/8Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/kubernetes-dashboard/8Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
 
 ## Networking
 
@@ -62,19 +62,19 @@ sidebar_label: Kubernetes Dashboard
 
 - Network category will show you the all available networking which are attached with your cluster and its nodes.
 
-<img src="/img/kubernetes-dashboard/9Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/kubernetes-dashboard/9Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Firewall tab will display list of ports which are opened for your cluster public IP. Also, you can add your custom ports that required for your applications.
 
-<img src="/img/kubernetes-dashboard/10Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/kubernetes-dashboard/10Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - You can configure port forwarding to allow external traffic to reach your virtual machines (VMs) by forwarding specific ports to the VMs.
 
-<img src="/img/kubernetes-dashboard/11Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/kubernetes-dashboard/11Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - A load balancer is a device or software that distributes network traffic across multiple servers or virtual machines (VMs) to ensure that no single machine is overloaded with traffic. You can use the built-in load balancing feature to distribute traffic to multiple VMs.
 
-<img src="/img/kubernetes-dashboard/12Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/kubernetes-dashboard/12Kubernetesdashboard-CloudPortalCloudManagementPortal.png" width="100%" />
 
 ### Marketplace
 

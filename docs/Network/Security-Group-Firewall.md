@@ -19,25 +19,25 @@ sidebar_label: Security Group Firewall
 - Click on the **Network** dropdown button below the compute icon, Which is available in the top left corner. from the dropdown, Click on **Security Groups** option.
 
 
-<img src="/img/securitygroup/securitygroups1-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/securitygroup/securitygroups1-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Security groups screen appears
 
-<img src="/img/securitygroup/securitygroups2-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/securitygroup/securitygroups2-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - At the right side of the panel the user can able to see a button called **Add**, click on it.
 
-<img src="/img/securitygroup/securitygroups3-CloudPortalCloudManagementPortal.png" width="90%" />
+<img src="/help/img/securitygroup/securitygroups3-CloudPortalCloudManagementPortal.png" width="90%" />
 
 - Enter the name and give a short description 
 - And select the status.
 - Finally, Click on **Add** button.
 
-<img src="/img/securitygroup/securitygroups4-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/securitygroup/securitygroups4-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Now the security group has been created successfully.
 
-<img src="/img/securitygroup/securitygroups5-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/securitygroup/securitygroups5-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - In the **Action** section we can **edit,manage,and delete** the **security group.**
 

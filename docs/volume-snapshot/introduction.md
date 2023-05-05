@@ -3,6 +3,7 @@ title: Introduction
 sidebar_label: Introduction
 ---
 
+## Introduction
 
 **CloudPortal volume snapshot** is a point-in-time copy of the data stored on a storage volume or disk. It's a mechanism used to create a backup or a copy of the data in case of a disaster or data loss.
 

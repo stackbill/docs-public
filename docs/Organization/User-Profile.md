@@ -5,12 +5,12 @@ sidebar_label: User Profile
 
 ## Setting up Profile in CloudPortal CMP
 
-<img src="/img/my-organization/myorganization1-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/my-organization/myorganization1-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - **Company** option can be found on the left side of the portal.
 - The screen displays a pop-up menu. From the pop uu click on **Profile**.
 
-<img src="/img/my-organization/myorganization2-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/my-organization/myorganization2-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - **My Profile** option appears on the screen.
 - The user can view or edit their personal information here.
@@ -22,7 +22,7 @@ sidebar_label: User Profile
 
 - On the left side of the pop-up menu, users can change their password by clicking on the **Change Password** option.
 
-<img src="/img/my-organization/myorganization3-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/my-organization/myorganization3-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - **Old Password** - Enter your Old password.
 - **New password**- Enter **The new password** in the **new password field.**
@@ -34,7 +34,7 @@ sidebar_label: User Profile
 
 - On the left side of the pop-up menu, Click on the **Payment Configuration** button to configure payment gateways.
 
-<img src="/img/my-organization/myorganization4-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/my-organization/myorganization4-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - Here user can Choose their **payment gateways** for the **payment process.**
 
@@ -51,14 +51,14 @@ sidebar_label: User Profile
 
 - Here the user can see the **total credit** which was assigned by the **admin.**
 
-<img src="/img/my-organization/myorganization5-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/my-organization/myorganization5-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - In this section, the user can view their **total credit limit**, **how much has been consumed, and the balance available credit limit for the next month.**
 - Below, Admins can assign users offers and promo codes here so that users can see if they have any.
 
 ### Request API Access in CloudPortal CMP
 
-<img src="/img/my-organization/myorganization6-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/my-organization/myorganization6-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - To view the API Documentation, Click On the **Request API Access**.
 - So that the request will sent to the admin through the email.
@@ -67,7 +67,7 @@ sidebar_label: User Profile
 
 - On the left side of the pop-up menu, Click on the **Notification settings** button to set notifications.
 
-<img src="/img/my-organization/myorganization7-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/my-organization/myorganization7-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - The user can enable the **Send Email Maintenance and Outage Notifications button** to receive notifications regarding **maintenance and outages.**
 - Enable the **Invoice remainder** option, the user will **receive a notification for the invoice.**
@@ -78,7 +78,7 @@ sidebar_label: User Profile
 - On the left side of the pop-up menu, Click on the **Delete Account** button to **Delete Account in CloudPortal Cmp.**
 - We recommend that you to follow these steps before deleting your account.
 
-<img src="/img/my-organization/myorganization8-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/my-organization/myorganization8-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - Account delete screen appears on the screen.
 - Click on the **Request for account delete**.
@@ -94,21 +94,21 @@ sidebar_label: User Profile
 - **Company** option can be found on the left side of the portal.
 - The screen displays a pop-up menu. From the pop up click on **user**.
 
-<img src="/img/my-organization/adduser1-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/my-organization/adduser1-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - **Add users** page appears on the screen.
 - To add a user, click the **Add user.**
 
-<img src="/img/my-organization/adduser2-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/my-organization/adduser2-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - **Fill all the required information on the menu.**
 
 
-<img src="/img/my-organization/adduser3-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/my-organization/adduser3-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - Finally, click **Add button.**
 
-<img src="/img/my-organization/adduser4-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/my-organization/adduser4-CloudPortalcloudmanagementportal.png" width="80%" />
 
 :::success
 - **Now the new user has been created successfully.**
@@ -123,24 +123,24 @@ sidebar_label: User Profile
 - **Company** option can be found on the left side of the portal.
 - The screen displays a pop-up menu. From the pop up click on **Role Privileges**.
 
-<img src="/img/my-organization/rbac1-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/my-organization/rbac1-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - **RBAC** screen appears.
 
-<img src="/img/my-organization/rbac2-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/my-organization/rbac2-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - At left side of the panel the user has a option to create new role.
 
-<img src="/img/my-organization/rbac3-CloudPortalcloudmanagementportal.png" width="50%" />
+<img src="/help/img/my-organization/rbac3-CloudPortalcloudmanagementportal.png" width="50%" />
 
 - Click on **Create New Role**.
 
-<img src="/img/my-organization/rbac4-CloudPortalcloudmanagementportal.png" width="90%" />
+<img src="/help/img/my-organization/rbac4-CloudPortalcloudmanagementportal.png" width="90%" />
 
 - Assign access rights to users so that they can access resources.
 - Once every process done, click on the **Update** button.
 
-<img src="/img/my-organization/rbac5-CloudPortalcloudmanagementportal.png" width="90%" />
+<img src="/help/img/my-organization/rbac5-CloudPortalcloudmanagementportal.png" width="90%" />
 
 :::success
 - **Now the Role Privelage has set successfully.**
@@ -151,11 +151,11 @@ sidebar_label: User Profile
 -  The **Company** option can be found on the left side of the portal.
 -   The screen displays a pop-up menu. To view the Quota, click on the **Quota Limit** option from the menu.
 
-<img src="/img/QuotaLimit/QuotaLimit1-CloudPortalCloudManagementPortal.png" width="80%" />
+<img src="/help/img/QuotaLimit/QuotaLimit1-CloudPortalCloudManagementPortal.png" width="80%" />
 
 -   Now Quota Limit page appears on the screen.
 
-<img src="/img/QuotaLimit/QuotaLimit2-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/QuotaLimit/QuotaLimit2-CloudPortalCloudManagementPortal.png" width="100%" />
 
 -   The user can see a detailed view of the resources that have been allocated by the administrator.
 -   Users can request an upgrade from their Admin if they need to upgrade any resources.
@@ -165,16 +165,16 @@ sidebar_label: User Profile
 -  The **Company** option can be found on the left side of the portal.
 -   The screen displays a pop-up menu. To view the recent activities, click on the **My Activity** option from the menu.
 
-<img src="/img/QuotaLimit/1MyActivity-CloudPortalCloudManagementPortal.png" width="80%" />
+<img src="/help/img/QuotaLimit/1MyActivity-CloudPortalCloudManagementPortal.png" width="80%" />
 
 
 -   Here user can be able to see their recent activities.
 
-<img src="/img/QuotaLimit/2MyActivity-CloudPortalCloudManagementPortal.png" width="80%" />
+<img src="/help/img/QuotaLimit/2MyActivity-CloudPortalCloudManagementPortal.png" width="80%" />
 
 -   Here the user can be able to see the Alerts.
 
-<img src="/img/QuotaLimit/3MyActivity-CloudPortalCloudManagementPortal.png" width="80%" />
+<img src="/help/img/QuotaLimit/3MyActivity-CloudPortalCloudManagementPortal.png" width="80%" />
 
 -----------------------------------------------------
 

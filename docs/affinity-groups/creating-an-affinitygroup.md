@@ -12,22 +12,22 @@ The following guide will help you to **affiniate instances** in the **CloudPorta
 -  The **virtual option** is displayed on the left side menu. To access the submenu, click on it.
 - Select the seventh option , which is named as **Affinity group**to affinate the instances.
 
-<img src="/img/virtualresources/Affinitygroup-CloudPortalCloudManagementPortal.png" width="80%" />
+<img src="/help/img/virtualresources/Affinitygroup-CloudPortalCloudManagementPortal.png" width="80%" />
 
 - Now the Affinity group option appears on the screen.
 
-<img src="/img/virtualresources/1Affinitygroup-CloudPortalCloudManagementPortal.png" width="90%" />
+<img src="/help/img/virtualresources/1Affinitygroup-CloudPortalCloudManagementPortal.png" width="90%" />
 
 - Click on **Add** button.
 
-<img src="/img/virtualresources/3Affinitygroup-CloudPortalCloudManagementPortal.png" width="50%" />
+<img src="/help/img/virtualresources/3Affinitygroup-CloudPortalCloudManagementPortal.png" width="50%" />
 
 - **Name** - Give a **name for the affinity group** you are creating.
 - **Description** - Short Notes about the affinity group.
 - **Type** - Here you wants to **select the type of the affinity**.
 - Finally click **Ok** button.
 
-<img src="/img/virtualresources/4Affinitygroup-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/virtualresources/4Affinitygroup-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Now the **Affinity group** has been created succesfully.
 

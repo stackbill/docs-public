@@ -3,6 +3,7 @@ title: Introduction
 sidebar_label: Introduction
 ---
 
+## Introduction
 
 **Secure payment and chargeback options integrated with CloudPortal cloudstack billing portal** which enable customers to chargeback their customers with popular payment gateways like PayPal, RazorPay, etc.
 

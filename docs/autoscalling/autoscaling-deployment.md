@@ -7,15 +7,15 @@ sidebar_label: Auto Scaling Deployment
 
 -   Click on the  **Virtual Resources**  dropdown button below the dashboard icon, Which is available in the top left corner. from the dropdown, Click on  **Autoscaling**, to create a Autoscaling policy.
 
-<img src="/img/Autoscaling/1Autoscaling-CloudPortalCloudmanagementPortal.png" width="90%" />
+<img src="/help/img/Autoscaling/1Autoscaling-CloudPortalCloudmanagementPortal.png" width="90%" />
 
 - **Autoscaling** screen appears.
 
-<img src="/img/Autoscaling/2Autoscaling-CloudPortalCloudmanagementPortal.png" width="90%" />
+<img src="/help/img/Autoscaling/2Autoscaling-CloudPortalCloudmanagementPortal.png" width="90%" />
 
 -    On the right side of the panel you can see a option called  **Add Autoscale**  option, Click on it.
 
-<img src="/img/Autoscaling/3Autoscaling-CloudPortalCloudmanagementPortal.png" width="90%" />
+<img src="/help/img/Autoscaling/3Autoscaling-CloudPortalCloudmanagementPortal.png" width="90%" />
 
 - Add Autoscale option appears.
 - **Auto scale Policy Name** - Give a name for the policy.
@@ -25,7 +25,7 @@ sidebar_label: Auto Scaling Deployment
 - **SSH Keypair** - Select the SSH Keypair.
 - Click **Next** button.
 
-<img src="/img/Autoscaling/4Autoscaling-CloudPortalCloudmanagementPortal.png" width="90%" />
+<img src="/help/img/Autoscaling/4Autoscaling-CloudPortalCloudmanagementPortal.png" width="90%" />
 
 - On the second step complete the configuration process for the Autoscale policy.
 - **Scaling Policy** - Select the Scaling policy as per the requirement.
@@ -36,14 +36,14 @@ sidebar_label: Auto Scaling Deployment
 -   **Warmup interval**  - When creating a new capacity provider or updating an existing one, you can specify a custom instance warm-up time, and you can set instance warm-up time in seconds.
 -   And click the  **NEXT**  button.
 
-<img src="/img/Autoscaling/5Autoscaling-CloudPortalCloudmanagementPortal.png" width="90%" />
+<img src="/help/img/Autoscaling/5Autoscaling-CloudPortalCloudmanagementPortal.png" width="90%" />
 
 -  **In this section, you can review your policy in detail.**
 -   If you want to edit the previous page you can edit using the Edit option which is placed above the page.
     
   -  Click **Review and launch** button to launch the policy.
 
-<img src="/img/Autoscaling/6Autoscaling-CloudPortalCloudmanagementPortal.png" width="90%" />
+<img src="/help/img/Autoscaling/6Autoscaling-CloudPortalCloudmanagementPortal.png" width="90%" />
 
 
 - Now the **Autoscaling policy has been configured successfully.**
