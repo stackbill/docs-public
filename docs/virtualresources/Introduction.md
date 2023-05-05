@@ -3,6 +3,7 @@ title: Introduction
 sidebar_label: Introduction
 ---
 
+## Introduction
 
 To create a virtual instance, you will need a [**CloudPortal account.**](https://youtu.be/wwOL091GyFM) If you don’t have one, you can create one from the **CloudPortal** account [sign-up page](https://youtu.be/9-cFL7hu0-g). **CloudPortal CMP** lets you access and manage your virtual instance through a simple and intuitive web-based user interface.
 

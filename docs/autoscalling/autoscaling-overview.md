@@ -7,8 +7,6 @@ sidebar_label: Auto Scaling Overview
 
 **Autoscaling** allows servers to **go to sleep** during times of **low load**, **saving on electricity costs** for companies running their server infrastructure.
 
-<img src="/img/Autoscaling/7Autoscaling-CloudPortalCloudmanagementPortal.png" width="55%" />
-
 **CloudPortal** Instances are running on virtualized hardware. You can use them standalone or as part of larger, cloud-based infrastructures.
 
 **About CloudPortal**

@@ -9,11 +9,11 @@ Savings Plans in [**CloudPortal**](https://www.CloudPortal.com/) are a flexible 
 
 - Click on the **Billing** dropdown button below the **Monitoring** icon, Which is available in the top left corner. from the dropdown, Click on **Saving plan**.
 
-<img src="/img/Billing/1savingplan-CloudPortalcloudmanagementportal.png" width="90%" />
+<img src="/help/img/Billing/1savingplan-CloudPortalcloudmanagementportal.png" width="90%" />
 
 - **Saving plan** screen appears.
 
-<img src="/img/Billing/2savingplan-CloudPortalcloudmanagementportal.png" width="90%" />
+<img src="/help/img/Billing/2savingplan-CloudPortalcloudmanagementportal.png" width="90%" />
 
 - **Active plan** - Here you can see how many **Reserved plans are in active.**
 - **savings** - **Saving option** allows users to see how much money they have saved in comparison to a normal plan.
@@ -22,11 +22,11 @@ Savings Plans in [**CloudPortal**](https://www.CloudPortal.com/) are a flexible 
 - At the bottom of the page you can able to see an option called **Purchase Saving Plan.**
 - Click on it to **Purchase a Saving plan**.
 
-<img src="/img/Billing/3savingplan-CloudPortalcloudmanagementportal.png" width="90%" />
+<img src="/help/img/Billing/3savingplan-CloudPortalcloudmanagementportal.png" width="90%" />
 
 - Select the **Offering plan** as per the requirement.
 
-<img src="/img/Billing/4savingplan-CloudPortalcloudmanagementportal.png" width="90%" />
+<img src="/help/img/Billing/4savingplan-CloudPortalcloudmanagementportal.png" width="90%" />
 
 - **Reserved Offering** - In CloudPortal there are two types offering avilable they are **Standard**, and **Convertable**.
 - **Standard offering** - In the **standard offering**, users can only use the policy in the standard format and cannot upgrade or downgrade it.

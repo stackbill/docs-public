@@ -8,28 +8,28 @@ sidebar_label: Creating VM Snapshot
 - The **Compute** option can be found on the left side of the portal click on it. 
 - Select **instance** option from the pop-up menu.
 
-<img src="/img/virtualresources/Instancecreation-CloudPortalCloudManagementportal1.png" width="100%" />
+<img src="/help/img/virtualresources/Instancecreation-CloudPortalCloudManagementportal1.png" width="100%" />
 
 - Now the the instance page appears.
 - Before starting to take a snapshot, **make sure the instance is in the stopped stage**    .
 
-<img src="/img/virtualresources/Resizeinstance-CloudPortalCloudManagementportal.png" width="100%" />
+<img src="/help/img/virtualresources/Resizeinstance-CloudPortalCloudManagementportal.png" width="100%" />
 
 - Click on the **Instance** so that you can view a summary page of the particular instance.
 
-<img src="/img/virtualresources/Resizeinstance1-CloudPortalCloudManagementPortal.png" width="130%" />
+<img src="/help/img/virtualresources/Resizeinstance1-CloudPortalCloudManagementPortal.png" width="130%" />
 
 - There you can view the **Snapshot icon at right side of the panel**.
 
-<img src="/img/virtualresources/VMsnapshot-CloudPortalcloudmanagementportal.png" width="130%" />
+<img src="/help/img/virtualresources/VMsnapshot-CloudPortalcloudmanagementportal.png" width="130%" />
 
 - Click on the **Snapshot** icon and click on the create VM snapshot
 
-<img src="/img/virtualresources/VMnsapshot2-CloudPortalCloudManagementPortal.png" width="130%" />
+<img src="/help/img/virtualresources/VMnsapshot2-CloudPortalCloudManagementPortal.png" width="130%" />
 
 - Click create **VM snapshot**
 
-<img src="/img/virtualresources/VMnsapshot3-CloudPortalCloudManagementPortal.png" width="130%" />
+<img src="/help/img/virtualresources/VMnsapshot3-CloudPortalCloudManagementPortal.png" width="130%" />
 
 - **Name** - Enter a name for the snapshot that you are creating.
 - **Description** - Give a short notes on the snapshot.
@@ -43,15 +43,15 @@ sidebar_label: Creating VM Snapshot
 - Click on it to view the drop-down menu.
 - From the drop up select **Snapshot** option.
 
-<img src="/img/virtualresources/1VMsnapshot-CloudPortalCloudManagementPortal.png" width="130%" />
+<img src="/help/img/virtualresources/1VMsnapshot-CloudPortalCloudManagementPortal.png" width="130%" />
 
 - **VM Snapshot** appears on the screen.
 
-<img src="/img/virtualresources/3Reservedinstance-CloudPortalCloudManagementPortal.png" width="130%" />
+<img src="/help/img/virtualresources/3Reservedinstance-CloudPortalCloudManagementPortal.png" width="130%" />
 
 - Click on **Add VM Snapshot**
 
-<img src="/img/virtualresources/4VMsnapshot-CloudPortalCloudManagementPortal.png" width="60%" />
+<img src="/help/img/virtualresources/4VMsnapshot-CloudPortalCloudManagementPortal.png" width="60%" />
 
 - **VM instance** - Select **the particular instance from which instance the snapshot should be done.**
 - **Name** - Give a **name for the Snapshot.**

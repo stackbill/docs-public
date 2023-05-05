@@ -7,11 +7,11 @@ sidebar_label: Setup Profile
 
 **CloudPortal CMP**'s Profile feature allows users to change their password and set up payment settings for their convenience. In addition, users can view their credits, promocodes. The Profile feature in [**CloudPortal CMP**](https://www.CloudPortal.com/)  provides a comprehensive view of a user's account.
 
-<img src="/img/gettingstarted/Userprofile1-CloudPortalCloudManagementportal.png" width="80%" />
+<img src="/help/img/gettingstarted/Userprofile1-CloudPortalCloudManagementportal.png" width="80%" />
 
 - Once you enter into the **CloudPortal** portal, you will see the **My Profile option**, where you can update your information and upload images.
 
-<img src="/img/gettingstarted/Userprofile2-CloudPortalCloudManagementportal.png" width="80%" />
+<img src="/help/img/gettingstarted/Userprofile2-CloudPortalCloudManagementportal.png" width="80%" />
 
 - **User credit limit** **(a limit that the admin allocates to the user to use the resource)** - in this option, the user can view their admin-allocated credit limit.
 - Once every **changes got completed**, click the **Save Changes** button.
@@ -22,7 +22,7 @@ sidebar_label: Setup Profile
 - **Password change** menu apperas on the screen.
 - To change your account password, click on the **Change Password** option placed under My Profile.
 
-<img src="/img/gettingstarted/Changepassword1-CloudPortalCloudManagement.png" width="100%" />
+<img src="/help/img/gettingstarted/Changepassword1-CloudPortalCloudManagement.png" width="100%" />
 
 - Now Change Password menu appears on the screen.
 - **Enter the Old Password** and then **enter the New Password** and confirm it.
@@ -33,7 +33,7 @@ sidebar_label: Setup Profile
 
 - To **Select your payment**, click on the **Payment setting option** placed under the Change Password option.
 
-<img src="/img/gettingstarted/Payment-CloudPortalCloudManagementPortal.png" width="80%" />
+<img src="/help/img/gettingstarted/Payment-CloudPortalCloudManagementPortal.png" width="80%" />
 
 - **Payment settings** menu apperas on the screen.
 - Select the **required payment gateways**
@@ -49,7 +49,7 @@ sidebar_label: Setup Profile
 - Under the **Payment setting option**, click on **Credits & Promo codes** to check your credit limits and offers.
 - Now the Credits & Promo code option appears on the screen.
 
-<img src="/img/gettingstarted/Credits&promocode-CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/gettingstarted/Credits&promocode-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Total Credit Limit will display the number of credits available for the user.
 - Under the Used Credit Limit, the user can view their used credit limit.
@@ -60,7 +60,7 @@ sidebar_label: Setup Profile
 - Under the **Credit & Promocode**, click on **Request API Access option** to access API setting.
 - Now **API Access** option appears on the screen.
 
-<img src="/img/gettingstarted/APIaccess1-CloudPortalCloudManagementPortal.png" width="90%" />
+<img src="/help/img/gettingstarted/APIaccess1-CloudPortalCloudManagementPortal.png" width="90%" />
 
 - **CloudPortal API** allows you to **manage** your **Instances** and **other resources** programmatically using **conventional HTTP request**.
 - **CloudPortal's API** allows you to perform any action you can perform through the Control Panel (except creating personal access tokens).
@@ -70,7 +70,7 @@ sidebar_label: Setup Profile
 - Under the **Manage API Access**, click on **Notification Settings** option to set notification alerts.
 - Now **Notification Settings** option appears on the screen.
 
-<img src="/img/gettingstarted/Notificatisettings1-CloudPortalCloudManagementportal.png" width="80%" />
+<img src="/help/img/gettingstarted/Notificatisettings1-CloudPortalCloudManagementportal.png" width="80%" />
 
 - **Maintenance and outage notification** - To receive notifications about outages and maintenance, the user can enable the Outage and maintenance notification option.
 - **Invoice prefrence** - When the invoice reminder option is enabled, the user will receive a notification about the bill payment three days before the end of the month.
@@ -81,7 +81,7 @@ sidebar_label: Setup Profile
 - Under the **Notification settings**, click on **Access Delete Request** option to delete account from the portal.
 - Now Account delete request screen appears.
 
-<img src="/img/gettingstarted/Deleteaccount-CloudPortalCMP.png" width="80%" />
+<img src="/help/img/gettingstarted/Deleteaccount-CloudPortalCMP.png" width="80%" />
 
 - Kindly follow the procedure to **delete your account** from **CloudPortal.**
 

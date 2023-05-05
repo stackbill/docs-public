@@ -7,9 +7,6 @@ sidebar_label: Basic Network
 
 [**CloudPortal**](https://www.CloudPortal.com/) provides private networking, traffic filtering, and load balancing so you can secure and control your application traffic.
 
-
-<img src="/img/network/network-CloudPortalcloudmanagementportal.png" width="60%" />
-
 [**CloudPortal**](https://www.CloudPortal.com/) provides private networking, traffic filtering, and load balancing so you can secure and control your application traffic.
 
 - There are two types of network available in **CloudPortal CMP** they are **L2 network**, and **Isolated network**.
@@ -18,12 +15,12 @@ sidebar_label: Basic Network
 
 - Click on the **Network** dropdown button below the virtual resources icon, Which is available in the top left corner. from the dropdown, Click on **Basic Network**, to create a new network.
 
-<img src="/img/network/1l2network-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/network/1l2network-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - **Basic Network** screen appears.
 - At the right side of the panel the user can able to see a option called **ADD NETWORK**, Click on it.
 
-<img src="/img/network/2l2network-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/network/2l2network-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - So once You click on the Add network button select the required network type as per the need.
 
@@ -31,7 +28,7 @@ sidebar_label: Basic Network
   **The following document shows the flow of the L2 network.**
 :::
 
-<img src="/img/network/3l2network-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/network/3l2network-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - **Name** - Specify a **name** for the network.
 
@@ -39,7 +36,7 @@ sidebar_label: Basic Network
 - **Attach Network to Instance** - The user can **attach the network** to their **required instance** using this option. 
 - Finally,Click on the **Create** button.
 
-<img src="/img/network/4l2network-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/network/4l2network-CloudPortalcloudmanagementportal.png" width="80%" />
 
 -   Now the **L2  Network**  has been created successfully.
 
@@ -49,12 +46,12 @@ sidebar_label: Basic Network
 
 - Click on the **Network** dropdown button below the virtual resources icon, Which is available in the top left corner. from the dropdown, Click on **Basic Network**, to create a new network.
 
-<img src="/img/network/1l2network-CloudPortalcloudmanagementportal.png" width="90%" />
+<img src="/help/img/network/1l2network-CloudPortalcloudmanagementportal.png" width="90%" />
 
 - **Basic Network** screen appears.
 - At the right side of the panel the user can able to see a option called **ADD NETWORK**, Click on it.
 
-<img src="/img/network/1basicnetwork-CloudPortalcloudmanagementportal.png" width="100%" />
+<img src="/help/img/network/1basicnetwork-CloudPortalcloudmanagementportal.png" width="100%" />
 
 - Once You click on the **Add network** button select **isolated network** option to create a **isolated network.**
 
@@ -62,7 +59,7 @@ sidebar_label: Basic Network
   **The following document shows the flow of the Isolated network.**
 :::
 
-<img src="/img/network/3l2network-CloudPortalcloudmanagementportal.png" width="70%" />
+<img src="/help/img/network/3l2network-CloudPortalcloudmanagementportal.png" width="70%" />
 
 - **Name** - Specify a **name** for the network.
 
@@ -70,7 +67,7 @@ sidebar_label: Basic Network
 - **Attach Network to Instance** - The user can **attach the network** to their **required instance** using this option. 
 - Finally,Click on the **Create** button.
 
-<img src="/img/network/4l2network-CloudPortalcloudmanagementportal.png" width="90%" />
+<img src="/help/img/network/4l2network-CloudPortalcloudmanagementportal.png" width="90%" />
 
 :::success
 -   Now the **Isolated  Network**  has been created successfully.
@@ -80,22 +77,20 @@ sidebar_label: Basic Network
 
 ## Adding Network to Instance in CloudPortal CMP
 
-<img src="/img/virtualresources/Instancecreation-CloudPortalCloudManagementPortal1.png" width="80%" />
-
 -   Click on the  **Virtual Resources**  dropdown button below the dashboard icon, Which is available in the top left corner. from the dropdown, Click on  **Instance** option.
 
-<img src="/img/network/1add-networktoinstance-CloudPortalcloudmanagementportal.png" width="90%" />
+<img src="/help/img/network/1add-networktoinstance-CloudPortalcloudmanagementportal.png" width="90%" />
 
 - Instance screen appears.
 - Click  on the particular instance.
 
-<img src="/img/network/2add-networktoinstance-CloudPortalcloudmanagementportal.png" width="90%" />
+<img src="/help/img/network/2add-networktoinstance-CloudPortalcloudmanagementportal.png" width="90%" />
 
 - Now the summary page of the instance appears, Select the **Network & Firewall** option on the summary.
 - Network & Firewall option appears.
 - At right side of the panel click on **Add network to the VM button**.
 
-<img src="/img/network/3add-networktoinstance-CloudPortalcloudmanagementportal.png" width="50%" />
+<img src="/help/img/network/3add-networktoinstance-CloudPortalcloudmanagementportal.png" width="50%" />
 
 - Select the Network and click **Add** button.
 
@@ -106,23 +101,23 @@ sidebar_label: Basic Network
 
 ## Adding security groups in CloudPortal CMP
 
-<img src="/img/securitygroups/1securitygroups-CloudPortalcloudmanagementportal.png" width="100%" />
+<img src="/help/img/securitygroups/1securitygroups-CloudPortalcloudmanagementportal.png" width="100%" />
 
 -   Click on the  **Network**  dropdown button below the compute icon, Which is available in the top left corner. from the dropdown, Click on  **Security groups**  option.
 
-<img src="/img/securitygroups/2securitygroups-CloudPortalcloudmanagementportal.png" width="100%" />
+<img src="/help/img/securitygroups/2securitygroups-CloudPortalcloudmanagementportal.png" width="100%" />
 
 - **Security group** option appears on the screen.
 - At right side of the panel the user can able to see a option called **Add** , Click on it to **create a new security groups.**
 
-<img src="/img/securitygroups/3securitygroups-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/securitygroups/3securitygroups-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - **Name** - Specify a **name** for the security group that has been creating.
 -  **Description** - Give a short notes about the security group.
 - **Status** - Specify IP version.
 - Finally, Click on **Add** button.
 
-<img src="/img/securitygroups/4securitygroups-CloudPortalcloudmanagementportal.png" width="100%" />
+<img src="/help/img/securitygroups/4securitygroups-CloudPortalcloudmanagementportal.png" width="100%" />
 
 :::success
 **- Now the security group has been created successfully.**
@@ -150,36 +145,36 @@ sidebar_label: Basic Network
 
 -   click on the **Network** dropdown below the virtual Resources icon, which is available in the top left corner. From the dropdown, click on **Basic Network**, **to Configure Port Forwarding**
 
-<img src="/img/securitygroups/PortForwarding1- CloudPortalCloudManagementPortal.png" width="60%" />
+<img src="/help/img/securitygroups/PortForwarding1- CloudPortalCloudManagementPortal.png" width="60%" />
 
 - **Basic Network**Screen appears.
 - Click on the **network** in which you wish to configure port forwarding.
 
-<img src="/img/securitygroups/PortForwarding2- CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/securitygroups/PortForwarding2- CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Network details screen appears, Select the **public IP** section from the details screen.
 
-<img src="/img/securitygroups/PortForwarding3- CloudPortalCloudManagementPortal (1).png" width="100%" />
+<img src="/help/img/securitygroups/PortForwarding3- CloudPortalCloudManagementPortal (1).png" width="100%" />
 
 - Click on the **Source NAT** option 
 
-<img src="/img/securitygroups/PortForwarding4- CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/securitygroups/PortForwarding4- CloudPortalCloudManagementPortal.png" width="100%" />
 
 - IP address screen open.
 - Before configuring Port Forwarding user need to Configure Firewall
 - To Configure the Firewall, click on **Firewall** option and configure it.
 
-<img src="/img/securitygroups/PortForwarding5- CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/securitygroups/PortForwarding5- CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Once the firewall has been configured go to the **Port Forwarding** option.
 - Click on **Add VM**.
 
-<img src="/img/securitygroups/PortForwarding6- CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/securitygroups/PortForwarding6- CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Configure the required port and select the protocol
 - Finally Click on **Add VM & Configure**.
 
-<img src="/img/securitygroups/PortForwarding7- CloudPortalCloudManagementPortal.png" width="100%" />
+<img src="/help/img/securitygroups/PortForwarding7- CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Now the Port Forwarding has been configured successfully.
 
@@ -188,24 +183,24 @@ sidebar_label: Basic Network
 
 - **Egress rule** will be used to allow your virtual instance to access outside network i.e. **Internet**.
 
-<img src="/img/securitygroups/1egressrule-CloudPortalcloudmanagementportal.png" width="100%" />
+<img src="/help/img/securitygroups/1egressrule-CloudPortalcloudmanagementportal.png" width="100%" />
 
 - Click on the particular **security group in which the egress rule should be created**.
 
-<img src="/img/securitygroups/2egressrule-CloudPortalcloudmanagementportal.png" width="100%" />
+<img src="/help/img/securitygroups/2egressrule-CloudPortalcloudmanagementportal.png" width="100%" />
 
 
 - **Now egress rule creating menu appears.**
 - The user can see an option called **Add rule** on the right side of the panel.
 - Click on it.
 
-<img src="/img/securitygroups/4egressrule-CloudPortalcloudmanagementportal.png" width="80%" />
+<img src="/help/img/securitygroups/4egressrule-CloudPortalcloudmanagementportal.png" width="80%" />
 
 - Select the **protocol** as per the wish.
 - Specify the **start and end port number.**
 - Finally, Click on **Add rule** button.
 
-<img src="/img/securitygroups/5egressrule-CloudPortalcloudmanagementportal.png" width="100%" />
+<img src="/help/img/securitygroups/5egressrule-CloudPortalcloudmanagementportal.png" width="100%" />
 
 :::success
 - Now the Egress rule has been created successfully.
@@ -217,17 +212,17 @@ sidebar_label: Basic Network
 
 ## Acquiring new public IP address
 
-<img src="/img/IP-manager/1ipmanager-CloudPortalcloudmanagementportal.png" width="100%" />
+<img src="/help/img/IP-manager/1ipmanager-CloudPortalcloudmanagementportal.png" width="100%" />
 
 
 - Click on the **Network** dropdown button below the compute icon, Which is available in the top left corner. from the dropdown, Click on **Ip Manager** option.
 
-<img src="/img/IP-manager/2ipmanager-CloudPortalcloudmanagementportal.png" width="100%" />
+<img src="/help/img/IP-manager/2ipmanager-CloudPortalcloudmanagementportal.png" width="100%" />
 
 - **IP manager** screen appears.
 - Click on **Acquire New Public IP** option.
 
-<img src="/img/IP-manager/3ipmanager-CloudPortalcloudmanagementportal.png" width="70%" />
+<img src="/help/img/IP-manager/3ipmanager-CloudPortalcloudmanagementportal.png" width="70%" />
 
 - **Choose your Network** - To acquire a public IP address, choose the network. 
 
@@ -235,7 +230,7 @@ sidebar_label: Basic Network
 **The loadbalancer and port forwarding features can be enabled by disabling static NAT while acquiring a new public IP address.**
 ::: 
 
-<img src="/img/IP-manager/4ipmanager-CloudPortalcloudmanagementportal.png" width="70%" />
+<img src="/help/img/IP-manager/4ipmanager-CloudPortalcloudmanagementportal.png" width="70%" />
 
 :::note
 **The loadbalancer and port forwarding features can be disabled by enabling static NAT while acquiring a new public IP address.**
@@ -249,22 +244,22 @@ sidebar_label: Basic Network
 
 - Finally click on the **Acquire** button.
 
-<img src="/img/IP-manager/5ipmanager-CloudPortalcloudmanagementportal.png" width="100%" />
+<img src="/help/img/IP-manager/5ipmanager-CloudPortalcloudmanagementportal.png" width="100%" />
 
 - Now the **IP adress** has been created successfully.
 
 ## Releasing public IP address
 
-<img src="/img/IP-manager/1releaseipmanager-CloudPortalcloudmanagement.png" width="100%" />
+<img src="/help/img/IP-manager/1releaseipmanager-CloudPortalcloudmanagement.png" width="100%" />
 
 - To Release a Public IP, click on the **release icon** which is available on the **Action menu.**
 - You will get a confirmation notification on the portal once you click on it.
 
-<img src="/img/IP-manager/2releaseipmanager-CloudPortalcloudmanagement.png" width="80%" />
+<img src="/help/img/IP-manager/2releaseipmanager-CloudPortalcloudmanagement.png" width="80%" />
 
 - To release the IP address, click OK.
 
-<img src="/img/IP-manager/3releaseipmanager-CloudPortalcloudmanagement.png" width="100%" />
+<img src="/help/img/IP-manager/3releaseipmanager-CloudPortalcloudmanagement.png" width="100%" />
 
 - Now your **IP** has **removed** successfully.
 
@@ -287,16 +282,14 @@ sidebar_label: Basic Network
 
 ## VPC (Virtual Private Cloud) in CloudPortal CMP
 
-<img src="/img/VPC/1vpc-CloudPortalcloudmanagementportal.png" width="100%" />
-
 - Click on the **Network** dropdown button below the compute icon, Which is available in the top left corner. from the dropdown, Click on **VPC** option.
 
-<img src="/img/VPC/2vpc-CloudPortalcloudmanagementportal.png" width="100%" />
+<img src="/help/img/VPC/2vpc-CloudPortalcloudmanagementportal.png" width="100%" />
 
 - **VPC** option appears on the screen.
 - At right side of the panel the user can able to see a option called **ADD VPC**, Click on it.
 
-<img src="/img/VPC/3vpc-CloudPortalcloudmanagementportal.png" width="100%" />
+<img src="/help/img/VPC/3vpc-CloudPortalcloudmanagementportal.png" width="100%" />
 
 -  **Name** -  Provide a name for the VPC you are creating.
 -   **Super CIDR** - Defines the CIDR range for all the tiers (guest networks) within a VPC. When you create a tier, ensure that its CIDR is within the Super CIDR value you enter.
@@ -313,32 +306,28 @@ sidebar_label: Basic Network
 
 A **load balancer** can be deployed as **software or hardware** to a device that **distributes connections** from clients between a set of servers. A load balancer acts as a ‘**reverse-proxy**’ to represent the application servers to the client through a virtual IP address (VIP). This technology is known as **server load balancing (SLB)**. SLB is designed for pools of application servers within a single site or local area network (LAN).
 
-
-<img src="/img/loadbalancer/Loadbalancer-CloudPortalCloudManagamentPortal.png" width="50%" />
-
-
 ### Add a load balancer to an instance in CloudPortal Cloud Management Portal.
 
 
 -   Click on the  **Network**  dropdown button below the **Compute icon**, Which is available in the top left corner. from the dropdown, Click on  **Load Balancer**, to create a new Load Balancer.
 - **Load balancer** screen appears.
 
-<img src="/img/loadbalancer/1Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
+<img src="/help/img/loadbalancer/1Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
 
 
 - On the right side of the panel you can see a option called **Create Load Balancer** option, Click on it.
 
-<img src="/img/loadbalancer/2Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
+<img src="/help/img/loadbalancer/2Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
 
 - **Add Load Balancer** option appears on the screen.
 
 
-<img src="/img/loadbalancer/3Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
+<img src="/help/img/loadbalancer/3Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
 
 - As a first step enter a **name and description** for the load balancer that you create.
 
 
-<img src="/img/loadbalancer/4Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
+<img src="/help/img/loadbalancer/4Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
 
 **Network & IP Address**
 -  Here you select the network and IP address for the Load Balancer.
@@ -346,24 +335,24 @@ A **load balancer** can be deployed as **software or hardware** to a device that
 - **Policy name** - Give a Policy name.
 - Select the protocol and assign a Port number for both load balancer and instance. 
 
-<img src="/img/loadbalancer/5Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
+<img src="/help/img/loadbalancer/5Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
 
 **Choose Algorithm and Sticky Sessions**
 - Choose your Load Balancer algorithm for the traffic distribution.
 - Select the sticky session as per the requirement.
 
-<img src="/img/loadbalancer/6Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
+<img src="/help/img/loadbalancer/6Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
 
 **Attach Instance**
 
 - Attach the policy to the required instance and click **Save policy** button in the below.
 
-<img src="/img/loadbalancer/7Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
+<img src="/help/img/loadbalancer/7Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
 
 - Now the **Load balancer Policy** has been created successfully.
 - Once the policy has been created successfully click on **Create Load Balancer** button which available on the below.
 
-<img src="/img/loadbalancer/8Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
+<img src="/help/img/loadbalancer/8Loadbalancer-CloudPortalCloudManagementPortal.png" width="90%" />
 
 - The **load balancer has been successfully configured on the instance.**
 - It is now possible to view the created policy on the Loadbalancer dashboard.

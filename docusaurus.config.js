@@ -17,7 +17,7 @@ const config = {
   projectName: "docusaurus",
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "fr"],
+    locales: ["en"],
   },
 
   presets: [
@@ -129,12 +129,6 @@ const config = {
             position: "right",
             items: [
               {
-                href: "https://clients.assistanz.com",
-                label: "Help Center",
-                target: "_blank",
-                rel: null,
-              },
-              {
                 href: "https://www.CloudPortal.com/",
                 label: "Customer Support",
                 target: "_blank",
@@ -147,12 +141,6 @@ const config = {
             type: "localeDropdown",
             position: "right",
             className: "icon-link navbar__item",
-          },
-          {
-            href: 'https://github.com/CloudPortal/docs',
-            label: 'GitHub',
-            position: 'right',
-            className: "top-bar-github-link"
           },
         ],
       },
