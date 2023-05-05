@@ -7,13 +7,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "CloudPortal Documentation",
   tagline: "CloudPortal Documentation",
-  url: "https://docs.CloudPortal.com",
+  url: "https://docs.CloudPortal.com", // Enter the URL of the Organization
   baseUrl: "/help/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   // favicon: "img/favicon.ico",
   favicon: "/logo_icon.png",
-  organizationName: "Assistanz Networks Pvt Ltd",
+  organizationName: "CloudPortal", // Enter the Organization Name
   projectName: "docusaurus",
   i18n: {
     defaultLocale: "en",
@@ -107,13 +107,6 @@ const config = {
             label: "APIs",
             position: "left",
           },
-          {
-            href: 'https://www.CloudPortal.com/blog/',
-            label: 'Blog',
-            position: 'left',
-            target: "_blank",
-            className: "top-bar-blog-link"
-          },
           // {
           //   type: "docsVersionDropdown",
           //   position: "right",
@@ -123,19 +116,6 @@ const config = {
           {
             type: "search",
             position: "right",
-          },
-          {
-            label: "Support",
-            position: "right",
-            items: [
-              {
-                href: "https://www.CloudPortal.com/",
-                label: "Customer Support",
-                target: "_blank",
-                rel: null,
-              }
-            ],
-            className: "navbar__link--support",
           },
           {
             type: "localeDropdown",

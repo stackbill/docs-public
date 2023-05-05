@@ -8,7 +8,7 @@
       {
         "title": "Virtual Resources",
         "img": "img/icons/virtual-resource-46x46.png",
-        "link": "/docs/virtualresources/Introduction#getting-started-with-CloudPortal-cmp",
+        "link": "docs/virtualresources/Introduction#getting-started-with-CloudPortal-cmp",
         "description": "CloudPortal Virtual resources are flexible, scalable, and accessible on-demand, typically hosted in Apache CloudStack environments."
       },
       {
