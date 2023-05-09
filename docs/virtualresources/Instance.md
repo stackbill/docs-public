@@ -708,7 +708,7 @@ With **CloudPortal's VM scheduler**, **you can start and stop instances automati
 
 - Click on the particular instance. 
 
-<img src="/help/img/virtualresources/console2-CloudPortalcloudmanagementportal.png" width="100%" />
+<img src="/help/img/virtualresources/Console2-CloudPortalCloudManagementPortal.png" width="100%" />
 
 - Now the **summary of the particular instance** appears on the screen.
 - At the right side of the panel you can see a option for **Vm scheduler**, Click on it.
