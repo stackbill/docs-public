@@ -190,6 +190,7 @@ module.exports = {
         "marketplace-docs/database/MYSQL-STANDALONE",
         "marketplace-docs/database/PHPMYADMIN",
         "marketplace-docs/database/POSTGRESQL",
+        "marketplace-docs/database/RETHINKDB",
       ],
     },
     {
@@ -221,6 +222,7 @@ module.exports = {
         "marketplace-docs/hosting-apps/JOOMLA-LOMP",
         "marketplace-docs/hosting-apps/MEDIAWIKI",
         "marketplace-docs/hosting-apps/OWNCLOUD",
+        "marketplace-docs/hosting-apps/ROCKET-CHAT",
         "marketplace-docs/hosting-apps/WORDPRESS",
         "marketplace-docs/hosting-apps/WORDPRESS-WOOCOMMERCE",
       ],
@@ -231,6 +233,8 @@ module.exports = {
       collapsed: false,
       items: [
         "marketplace-docs/hosting-panels/CLOUDPANEL",
+        "marketplace-docs/hosting-panels/CPANEL",
+        "marketplace-docs/hosting-panels/PLESK",
         "marketplace-docs/hosting-panels/WEBMIN",
       ],
     },
@@ -249,6 +253,14 @@ module.exports = {
       items: [
         "marketplace-docs/monitoring/PROMETHEUS",
         "marketplace-docs/monitoring/ZABBIX",
+      ],
+    },
+    {
+      type: "category",
+      label: "Operating System",
+      collapsed: false,
+      items: [
+        "marketplace-docs/operating-system/UBUNTU-DESKTOP-20.04",
       ],
     },
     {

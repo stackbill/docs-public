@@ -5,7 +5,7 @@ sidebar_label: Account Signup
 
 # Welcome to CloudPortal Documentation
 
-[**CloudPortal**](https://www.youtube.com/watch?v=nyV8oE3dfXs&t=1s) portal offers a simple and intuitive web-based user interface, [**CloudPortal CMP**](https://www.CloudPortal.com/CloudPortal-overview.html#compute) allows you to
+[**CloudPortal**](https://www.CloudPortal.com/watch?v=nyV8oE3dfXs&t=1s) portal offers a simple and intuitive web-based user interface, [**CloudPortal CMP**](https://www.CloudPortal.com/CloudPortal-overview.html#compute) allows you to
 
 - **Manage to compute resources** - Easily access and manage your virtual instances, Load Balancer, and Kubernetes.
 - You can **create an isolated network, VPC, VPN Gateway, Security groups, IP Manager, and many more.**
@@ -102,6 +102,6 @@ You can retrieve your account if you forget your password with CloudPortal CMP.
 
 **About CloudPortal**
 
-**[CloudPortal](https://www.youtube.com/watch?v=nyV8oE3dfXs) is a complete self-service intuitive [Cloud Management Portal](https://www.CloudPortal.com/) with extensive features leveraging Apache CloudStack® with state of art years of expertise.**
+**[CloudPortal](https://www.CloudPortal.com/watch?v=nyV8oE3dfXs) is a complete self-service intuitive [Cloud Management Portal](https://www.CloudPortal.com/) with extensive features leveraging Apache CloudStack® with state of art years of expertise.**
 
 
