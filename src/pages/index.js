@@ -11,7 +11,7 @@ import HomePageLatestUpdates from "../components/HomePageLatestUpdates";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
-  let featureTitle = siteConfig.title.split(" ")
+  let title = siteConfig.organizationName;
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
@@ -20,9 +20,9 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://www.CloudPortal.com/CloudPortal-features.html"
+            to={siteConfig.url}
           >
-            {featureTitle.length > 0 && featureTitle[0]} Features
+            { title } Features
           </Link>
         </div>
       </div>
