@@ -34,8 +34,8 @@ The following guide will help you to **affiniate instances** in the **CloudPorta
 -----------------------------------------------------
 
 
-**About CloudPortal**
 
-**[CloudPortal](https://www.CloudPortal.com/watch?v=nyV8oE3dfXs) is a complete self-service intuitive [Cloud Management Portal](https://www.CloudPortal.com/) with extensive features leveraging Apache CloudStack® with state of art years of expertise.**
+
+
 
 

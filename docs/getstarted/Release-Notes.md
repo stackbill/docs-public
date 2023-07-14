@@ -121,6 +121,6 @@ February 27th, 2022
 - API changes to Regenerate Tax Pending Status. 
 - Custom field with search filter.
 
-**About CloudPortal**
 
-**[CloudPortal](https://www.CloudPortal.com/watch?v=nyV8oE3dfXs) is a complete self-service intuitive [Cloud Management Portal](https://www.CloudPortal.com/) with extensive features leveraging Apache CloudStack® with state of art years of expertise.**
+
+

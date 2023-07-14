@@ -22,6 +22,6 @@ sidebar_label: Introduction
 - [Attach a data volume](./attach-data-volume#steps-to-attach-a-data-volume-in-windows-vm)
 - [Extend the data volume](./extend-data-volume#in-this-tutorial-well-show-you-how-to-extend-windows-vms-data-volume)
 
-**About CloudPortal**
 
-**[CloudPortal](https://www.CloudPortal.com/watch?v=nyV8oE3dfXs) is a complete self-service intuitive [Cloud Management Portal](https://www.CloudPortal.com/) with extensive features leveraging Apache CloudStack® with state of art years of expertise.**
+
+

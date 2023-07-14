@@ -12,6 +12,6 @@ When a VM snapshot is taken, a copy of the virtual machine's disk file and memor
 - [Creating VM Snapshot](./creating-a-vm-snapshot#creating-vm-snapshot-in-CloudPortal-cmp) 
 - [How to Revertback VM Snapshot](./how-to-revertback-vmsnapshot#how-to-revertback-vm-snapshot-in-CloudPortal-cmp)
 
-**About CloudPortal**
 
-**[CloudPortal](https://www.CloudPortal.com/watch?v=nyV8oE3dfXs) is a complete self-service intuitive [Cloud Management Portal](https://www.CloudPortal.com/) with extensive features leveraging Apache CloudStack® with state of art years of expertise.**
+
+
