@@ -107,6 +107,6 @@ Savings Plans in [**CloudPortal**](https://www.CloudPortal.com/) are a flexible 
 
 - Now the **Reserved offering is successfully configured.**
 
-**About CloudPortal**
+
 
 [**CloudPortal**](https://www.CloudPortal.com/CloudPortal-overview.html#compute) is a complete self-service intuitive Cloud Management Portal with extensive features leveraging **Apache CloudStack®** with state of art years of expertise.
