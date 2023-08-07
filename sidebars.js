@@ -102,8 +102,8 @@ module.exports = {
       label: "Marketplace",
       collapsed: false,
       items: [
-        "Marketplace/Overview",
-        "Marketplace/Launching-Apps",
+        "marketplace/Overview",
+        "marketplace/Launching-Apps",
       ],
     },
     {
@@ -163,7 +163,7 @@ module.exports = {
       ],
     },
   ],
-  Marketplace: [
+  marketplace: [
     {
       type: "category",
       label: "Get started",
@@ -272,7 +272,8 @@ module.exports = {
       items: [
         "marketplace/monitoring/prometheus",
         "marketplace/monitoring/zabbix-proxy",
-        "marketplace/monitoring/zabbix-server",      ],
+        "marketplace/monitoring/zabbix-server",   
+        "marketplace/monitoring/Kibana",   ],
     },
     {
       type: "category",
