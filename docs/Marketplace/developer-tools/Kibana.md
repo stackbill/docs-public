@@ -12,16 +12,16 @@ The Elastic Stack, formerly known as the ELK Stack, is a set of open-source soft
 
 ### Software Included
  
-- Elasticsearch
-- Logstash
-- Kibana
+ Elasticsearch
+ Logstash
+ Kibana
 
-## Allow the Following port in security Groups
+ ## Allow the Following port in security Groups
 
-To allow access to Kibana and Logstash, you must create the relevant security groups by adding inbound rules for ports 5601 and 9200. Authorised users may now interact with the Kibana visualisation interface and the Logstash data pipeline. To limit access, select appropriate source IP addresses, prioritise security, and consider combining authentication and encryption solutions for comprehensive security settings.
+ To allow access to Kibana and Logstash, you must create the relevant security groups by adding inbound rules for ports 5601 and 9200. Authorised users may now interact with the Kibana visualisation interface and the Logstash data pipeline. To limit access, select appropriate source IP addresses, prioritise security, and consider combining authentication and encryption solutions for comprehensive security settings.
 
 
-## Once the Kibana is deployed
+ ## Once the Kibana is deployed
 
 You can log into the instance as ubuntu using either the password you set when you created the instance or with an SSH key if you added one during creation.
 

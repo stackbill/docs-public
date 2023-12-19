@@ -178,6 +178,8 @@ module.exports = {
         "marketplace/business-apps/filecloud",
         "marketplace/business-apps/owncloud",
         "marketplace/business-apps/rocket-chat",
+        "marketplace/business-apps/moodle",
+        "marketplace/business-apps/odoo",
       ],
     },
     {
@@ -191,6 +193,7 @@ module.exports = {
         "marketplace/content-management-systems/laravel-lemp",
         "marketplace/content-management-systems/mediawiki",
         "marketplace/content-management-systems/wordpress-lamp",
+        "marketplace/content-management-systems/moodle",
       ],
     },
     {
@@ -221,6 +224,8 @@ module.exports = {
         "marketplace/developer-tools/gitlab",
         "marketplace/developer-tools/miniconda",
         "marketplace/developer-tools/rabbitmq",
+        "marketplace/developer-tools/Kibana",
+        "marketplace/developer-tools/slims",
       ],
     },
     {
@@ -255,6 +260,9 @@ module.exports = {
         "marketplace/hosting-panels/cpanel",
         "marketplace/hosting-panels/plesk",
         "marketplace/hosting-panels/webmin",
+        "marketplace/hosting-panels/aapanel",
+        "marketplace/hosting-panels/webuzo",
+        "marketplace/hosting-panels/jitsimeet",
       ],
     },
     {
@@ -263,6 +271,7 @@ module.exports = {
       collapsed: false,
       items: [
         "marketplace/media/antmediaserver",
+        "marketplace/media/jitsimeet",
       ],
     },
     {
@@ -273,7 +282,8 @@ module.exports = {
         "marketplace/monitoring/prometheus",
         "marketplace/monitoring/zabbix-proxy",
         "marketplace/monitoring/zabbix-server",   
-        "marketplace/monitoring/Kibana",   ],
+        "marketplace/monitoring/elasticsearch",  
+      ],
     },
     {
       type: "category",
