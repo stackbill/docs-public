@@ -226,6 +226,7 @@ module.exports = {
         "marketplace/developer-tools/rabbitmq",
         "marketplace/developer-tools/Kibana",
         "marketplace/developer-tools/slims",
+        "marketplace/developer-tools/bigbluebutton",
       ],
     },
     {
